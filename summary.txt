@@ -1,0 +1,11 @@
+What is Git? 
+____________
+When you want to work with team it would take long time to finish the work due to waiting the others to end their own tasks .
+therefore, Git can fix this issue.
+
+OK, what Git acctually do? 
+Git simply makes clones of certain version to give the whole team the access on the version at the same time, and this what is called
+"DVCS" Distribution version control system.
+
+Github, Gitlab and BitBucket are sources for projects and they simplify using git and not nessesary to use them 
+_____________________________________________________________________________________________________________________________________ 
