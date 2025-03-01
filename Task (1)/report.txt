@@ -1,0 +1,8 @@
+Important notes: 
+
+1)There is no space after (%d), it make a syntax error
+	for ex... scanf("%d", &x); not scanf("%d ", &x);
+
+2)In the function "printf" we do not use "&x" but "x" to call a pointer
+	for ex... printf("Enter value: ", x); not printf("Enter value: ", &x); 
+
